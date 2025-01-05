@@ -1,0 +1,1111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\banklocations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\banklocations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\wwwroot\\admin\\vendor\\chart.js\\chart.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\wwwroot\\admin\\vendor\\chart.js\\chart.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\wwwroot\\content\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\wwwroot\\content\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\migrations\\20250103145933_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\migrations\\20250103145933_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\data\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\data\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\loans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\loans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\loans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\loans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\loans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\loans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\banklocations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\banklocations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\loans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\loans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\banklocations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\banklocations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\banklocations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\banklocations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\banklocations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\banklocations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\controllers\\banklocationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\controllers\\banklocationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\models\\banklocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\models\\banklocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\wwwroot\\admin\\blank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\wwwroot\\admin\\blank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\bankssystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\bankssystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101190325_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bankssystem\\Migrations\\20250101190325_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101185455_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bankssystem\\Migrations\\20250101185455_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|c:\\users\\ganey\\source\\repos\\bankssystem\\bankssystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0E3909-0BFC-4175-B12B-F1A26B6DA99F}|Bankssystem\\Bankssystem.csproj|solutionrelative:bankssystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101183920_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bankssystem\\Migrations\\20250101183920_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101183224_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bankssystem\\Migrations\\20250101183224_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101182842_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bankssystem\\Migrations\\20250101182842_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\BankLocations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\BankLocations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\BankLocations\\Index.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\BankLocations\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAARyjiHhwCwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:01:33.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAMAAADAM57xNFgmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T19:43:03.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAFKE6MDURwAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T15:29:43.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABUAAADgutfOH5ApwCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T18:32:07.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T19:01:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Accounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:00:36.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T17:45:28.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "account.css",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\wwwroot\\css\\account.css",
+              "RelativeDocumentMoniker": "Bankssystem\\wwwroot\\css\\account.css",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\wwwroot\\css\\account.css",
+              "RelativeToolTip": "Bankssystem\\wwwroot\\css\\account.css",
+              "ViewState": "AgIAAAQAAACgr3uGIA0wwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-03T17:20:39.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADAAAABADjEg3wUswGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T22:06:34.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAoAhFcMLhvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T21:12:53.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Bankssystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:19:30.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T15:13:29.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Chart.bundle.js",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\wwwroot\\Admin\\vendor\\chart.js\\Chart.bundle.js",
+              "RelativeDocumentMoniker": "Bankssystem\\wwwroot\\Admin\\vendor\\chart.js\\Chart.bundle.js",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\wwwroot\\Admin\\vendor\\chart.js\\Chart.bundle.js",
+              "RelativeToolTip": "Bankssystem\\wwwroot\\Admin\\vendor\\chart.js\\Chart.bundle.js",
+              "ViewState": "AgIAAIQ7AAAAAAAAAAApwJI7AAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-04T08:38:53.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bankssystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:08:14.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Program.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Program.cs",
+              "RelativeToolTip": "Bankssystem\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:54:30.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Bankssystem\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Bankssystem\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-04T06:27:04.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\wwwroot\\Content\\index.html",
+              "RelativeDocumentMoniker": "Bankssystem\\wwwroot\\Content\\index.html",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\wwwroot\\Content\\index.html",
+              "RelativeToolTip": "Bankssystem\\wwwroot\\Content\\index.html",
+              "ViewState": "AgIAACUEAAAAAAAAAADwv0wEAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-04T06:44:58.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T15:22:53.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T05:00:54.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T20:28:06.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Bankssystem\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:47:42.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\ViewModels\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "Bankssystem\\ViewModels\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:09:26.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VerifyEmailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\ViewModels\\VerifyEmailViewModel.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeToolTip": "Bankssystem\\ViewModels\\VerifyEmailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:07:40.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Bankssystem\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:06:02.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Bankssystem\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:03:57.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250103145933_Init.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250103145933_Init.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Migrations\\20250103145933_Init.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250103145933_Init.cs",
+              "RelativeToolTip": "Bankssystem\\Migrations\\20250103145933_Init.cs",
+              "ViewState": "AgIAAJ0AAAAAl8NgdTIhwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:59:35.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\Users.cs",
+              "RelativeToolTip": "Bankssystem\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:00:05.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Transactions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Transactions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Transactions\\Delete.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Transactions\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:42:19.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Transactions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Transactions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Transactions\\Details.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Transactions\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:42:12.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WebDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Data\\WebDbContext.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Data\\WebDbContext.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Data\\WebDbContext.cs",
+              "RelativeToolTip": "Bankssystem\\Data\\WebDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:57:48.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Transactions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Transactions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Transactions\\Create.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Transactions\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:42:23.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Transactions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Transactions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Transactions\\Edit.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Transactions\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:42:01.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Bankssystem\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:37:14.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAIBJwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:02:22.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Loans\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Loans\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Loans\\Details.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Loans\\Details.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAIBJwBIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:03:16.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Loans\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Loans\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Loans\\Edit.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Loans\\Edit.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAIBJwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:03:05.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Accounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Accounts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Accounts\\Create.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Accounts\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAIBJwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:01:26.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\Transaction.cs",
+              "RelativeToolTip": "Bankssystem\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:47:16.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAABkAAACgJit5o10nwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:02:46.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Loans\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Loans\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Loans\\Create.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Loans\\Create.cshtml",
+              "ViewState": "AgIAACgAAADABC7VbGEnwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:03:28.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Accounts\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:01:05.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\BankLocations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\BankLocations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\BankLocations\\Create.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\BankLocations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:02:01.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Loans\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Loans\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Loans\\Delete.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Loans\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:03:22.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:02:32.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:02:26.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\BankLocations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\BankLocations\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\BankLocations\\Delete.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\BankLocations\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:01:56.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\BankLocations\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\BankLocations\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\BankLocations\\Details.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\BankLocations\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:01:51.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\BankLocations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\BankLocations\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\BankLocations\\Edit.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\BankLocations\\Edit.cshtml",
+              "ViewState": "AgIAABUAAABAGs8smbUpwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:01:37.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Accounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Accounts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Accounts\\Delete.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Accounts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:01:22.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Accounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Accounts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Accounts\\Details.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Accounts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T09:01:15.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoansController.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\LoansController.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Controllers\\LoansController.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\LoansController.cs",
+              "RelativeToolTip": "Bankssystem\\Controllers\\LoansController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:51:16.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Bankssystem\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:49:37.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BankLocationsController.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\BankLocationsController.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Controllers\\BankLocationsController.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Controllers\\BankLocationsController.cs",
+              "RelativeToolTip": "Bankssystem\\Controllers\\BankLocationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:48:33.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\Customer.cs",
+              "RelativeToolTip": "Bankssystem\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:47:09.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\Loan.cs",
+              "RelativeToolTip": "Bankssystem\\Models\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:47:13.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BankLocation.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\BankLocation.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Models\\BankLocation.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\BankLocation.cs",
+              "RelativeToolTip": "Bankssystem\\Models\\BankLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:06:31.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\Account.cs",
+              "RelativeToolTip": "Bankssystem\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:47:06.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\appsettings.json",
+              "RelativeDocumentMoniker": "Bankssystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\appsettings.json",
+              "RelativeToolTip": "Bankssystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T17:59:30.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Bankssystem\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\appsettings.Development.json",
+              "RelativeToolTip": "Bankssystem\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T17:59:34.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "blank.html",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\wwwroot\\Admin\\blank.html",
+              "RelativeDocumentMoniker": "Bankssystem\\wwwroot\\Admin\\blank.html",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\wwwroot\\Admin\\blank.html",
+              "RelativeToolTip": "Bankssystem\\wwwroot\\Admin\\blank.html",
+              "ViewState": "AgIAAIABAAAAAAAAAADwv5wBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-02T05:53:57.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Bankssystem.csproj",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Bankssystem.csproj",
+              "RelativeDocumentMoniker": "Bankssystem\\Bankssystem.csproj",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Bankssystem.csproj",
+              "RelativeToolTip": "Bankssystem\\Bankssystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-01T17:46:09.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Bankssystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Bankssystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T22:07:21.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250101190325_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101190325_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Migrations\\20250101190325_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101190325_InitialCreate.cs",
+              "RelativeToolTip": "Bankssystem\\Migrations\\20250101190325_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:03:25.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250101185455_m2.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101185455_m2.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Migrations\\20250101185455_m2.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101185455_m2.cs",
+              "RelativeToolTip": "Bankssystem\\Migrations\\20250101185455_m2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:54:55.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Bankssystem\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:47:37.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250101183920_M1.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101183920_M1.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Migrations\\20250101183920_M1.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101183920_M1.cs",
+              "RelativeToolTip": "Bankssystem\\Migrations\\20250101183920_M1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:39:20.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250101183224_M1.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101183224_M1.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Migrations\\20250101183224_M1.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101183224_M1.cs",
+              "RelativeToolTip": "Bankssystem\\Migrations\\20250101183224_M1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:32:24.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250101182842_M1.cs",
+              "DocumentMoniker": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101182842_M1.cs",
+              "RelativeDocumentMoniker": "Bankssystem\\Migrations\\20250101182842_M1.cs",
+              "ToolTip": "C:\\Users\\ganey\\source\\repos\\Bankssystem\\Bankssystem\\Migrations\\20250101182842_M1.cs",
+              "RelativeToolTip": "Bankssystem\\Migrations\\20250101182842_M1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:28:42.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
